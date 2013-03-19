@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>糗事百科</title>
+        <description>糗事百科 - 糗事百科</description>
+        <link>http://qiushibaike.github.com</link>
+        <link>http://qiushibaike.github.com</link>
+        <lastBuildDate>2013-03-19T18:13:12+08:00</lastBuildDate>
+        <pubDate>2013-03-19T18:13:12+08:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>我们在招人！（客户端+服务端）</title>
+                <description>
+&lt;h4 id=&quot;section&quot;&gt;招人啦&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;天王盖地虎，蘑菇两毛五！现在最有节操的糗百团队有如下职位提供应聘哦  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;糗事百科：    &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;iOS/Andorid 客户端工程师各一枚 , 工作地点： 深圳&lt;/li&gt;
+  &lt;li&gt;前端工程师一枚	工作地点： 深圳&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;兄弟创业项目&lt;code&gt;秘密&lt;/code&gt;：  &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;iOS 客户端工程师一枚 , 工作地：北京&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;职位描述和需求见下面 ，薪酬面议&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;iosandroid&quot;&gt;iOS/Android客户端工程师招聘&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;扎实的编程功底，能享受编程乐趣 &lt;/li&gt;
+  &lt;li&gt;本科以上学历，虽然我们更看重能力但通过简历筛选效率更高，谅解  &lt;/li&gt;
+  &lt;li&gt;至少完整经历过一个移动产品的开发和维护 &lt;/li&gt;
+  &lt;li&gt;能了解iOS/Android框架工作原理，而不是仅仅靠API工作 &lt;/li&gt;
+  &lt;li&gt;能独立完成功能模块规划开发测试工作 &lt;/li&gt;
+  &lt;li&gt;熟悉网络协议 &lt;/li&gt;
+  &lt;li&gt;有独立钻研技术的热情和能力，思维敏捷，良好英文阅读能力 
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;前端工程师&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;扎实的编程功底，能享受编程乐趣&lt;/li&gt;
+  &lt;li&gt;本科以上学历，虽然我们更看重能力但通过简历筛选效率更高，谅解 &lt;/li&gt;
+  &lt;li&gt;熟悉XHTML/CSS/Javascript等前端技术，习惯于手写符合W3C标准、兼容多种浏览器的代码&lt;/li&gt;
+  &lt;li&gt;掌握至少一门非前端开发语言（如PHP/Java/Python/Ruby等），并有一定的实战经验
+&lt;br /&gt;&lt;br /&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;python-&quot;&gt;Python 后端工程师&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;负责糗百兄弟项目&lt;strong&gt;秘密&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;扎实的编程功底，能享受编程乐趣 &lt;/li&gt;
+  &lt;li&gt;本科以上学历，虽然我们更看重能力但通过简历筛选效率更高，谅解 &lt;/li&gt;
+  &lt;li&gt;不会python也没关系，有强大的学习能力即可 &lt;/li&gt;
+  &lt;li&gt;有服务容量扩展和mysql性能调优经验&lt;/li&gt;
+  &lt;li&gt;有部分前端能力 
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;优先条件&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;有激情，善于应对灵活多变需求 &lt;/li&gt;
+  &lt;li&gt;高于常人的开发效率 &lt;/li&gt;
+  &lt;li&gt;掌握不只一门开发语言 &lt;/li&gt;
+  &lt;li&gt;参与(贡献)过开源项目 &lt;/li&gt;
+  &lt;li&gt;糗百用户 &lt;/li&gt;
+  &lt;li&gt;苹果重度用户或Linux爱好者优先；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;请提供你的额外信息供我们参考： &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;微博帐号 &lt;/li&gt;
+  &lt;li&gt;Github 帐号 &lt;/li&gt;
+  &lt;li&gt;stack-overflow 帐号 &lt;/li&gt;
+  &lt;li&gt;个人网站等 &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;简历请使用&lt;code&gt;PDF&lt;/code&gt;格式发送至 &lt;code&gt;hr@qiushibaike.com&lt;/code&gt; ，邮件标题请写明应聘职位。 期待您的加入！&lt;/p&gt;
+</description>
+                <link>http://qiushibaike.github.com/2013/03/19/we-are-hiring</link>
+                <guid>http://qiushibaike.github.com/2013/03/19/we-are-hiring</guid>
+                <pubDate>2013-03-19T00:00:00+08:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
