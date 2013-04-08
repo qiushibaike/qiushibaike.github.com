@@ -5,11 +5,13 @@ tagline:
 ---
 {% include JB/setup %}
 
-正版糗百github仓库 by [糗事百科](http://www.qiushibaike.com) 
+### Bonjour!
+这里是就是正版糗百github仓库
 
-### Open Source Project
+我们的官网 -> [糗事百科](http://www.qiushibaike.com) 
 
-访问 [https://qiushibaike.github.com](https://qiushibaike.github.com) 
+开源项目列表 -> [https://qiushibaike.github.com](https://github.com/qiushibaike) 
+
 
 ### Blogs    
 
