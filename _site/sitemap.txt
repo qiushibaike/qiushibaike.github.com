@@ -9,4 +9,5 @@ http://qiushibaike.github.com/rss.xml
 http://qiushibaike.github.com/sitemap.txt
 http://qiushibaike.github.com/tags.html
 
-http://qiushibaike.github.com/2013/03/19/we-are-hiring
+http://qiushibaike.github.com/2013/game-project-hiring
+http://qiushibaike.github.com/2013/we-are-hiring
